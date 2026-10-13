@@ -1,0 +1,49 @@
+{"event":"geometry","viewport":{"width":1280,"height":720},"menu":{"x":559.78125,"y":61,"width":231.71875,"height":360,"top":61,"right":791.5,"bottom":421,"left":559.78125},"list":{"x":564.78125,"y":102,"width":221.71875,"height":314,"top":102,"right":786.5,"bottom":416,"left":564.78125},"search":{"x":564.78125,"y":66,"width":221.71875,"height":32,"top":66,"right":786.5,"bottom":98,"left":564.78125},"searchHit":true,"loading":null,"outerScrollTop":0,"scrollTop":356,"maxScroll":356,"last":{"name":"GPT-Reserve (Experimental)","rect":{"x":564.78125,"y":378,"width":221.71875,"height":38,"top":378,"right":786.5,"bottom":416,"left":564.78125},"hit":true},"count":13}
+{"event":"geometry","viewport":{"width":1024,"height":640},"menu":{"x":428.28125,"y":21,"width":231.71875,"height":360,"top":21,"right":660,"bottom":381,"left":428.28125},"list":{"x":433.28125,"y":62,"width":221.71875,"height":314,"top":62,"right":655,"bottom":376,"left":433.28125},"search":{"x":433.28125,"y":26,"width":221.71875,"height":32,"top":26,"right":655,"bottom":58,"left":433.28125},"searchHit":true,"loading":null,"outerScrollTop":0,"scrollTop":356,"maxScroll":356,"last":{"name":"GPT-Reserve (Experimental)","rect":{"x":433.28125,"y":338,"width":221.71875,"height":38,"top":338,"right":655,"bottom":376,"left":433.28125},"hit":true},"count":13}
+{"event":"geometry","viewport":{"width":1280,"height":600},"menu":{"x":559.78125,"y":1,"width":231.71875,"height":360,"top":1,"right":791.5,"bottom":361,"left":559.78125},"list":{"x":564.78125,"y":42,"width":221.71875,"height":314,"top":42,"right":786.5,"bottom":356,"left":564.78125},"search":{"x":564.78125,"y":6,"width":221.71875,"height":32,"top":6,"right":786.5,"bottom":38,"left":564.78125},"searchHit":false,"loading":null,"outerScrollTop":0,"scrollTop":356,"maxScroll":356,"last":{"name":"GPT-Reserve (Experimental)","rect":{"x":564.78125,"y":318,"width":221.71875,"height":38,"top":318,"right":786.5,"bottom":356,"left":564.78125},"hit":true},"count":13}
+{
+  "status": "PASS",
+  "results": [
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 720
+      },
+      "geometry": "PASS",
+      "wheelBothDirections": "PASS",
+      "search": "PASS"
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 640
+      },
+      "geometry": "PASS",
+      "wheelBothDirections": "PASS",
+      "search": "PASS"
+    },
+    {
+      "viewport": {
+        "width": 1280,
+        "height": 600
+      },
+      "geometry": "PASS",
+      "wheelBothDirections": "PASS",
+      "search": "PASS"
+    },
+    {
+      "clicked": "GPT-Reserve (Experimental)",
+      "selection": "PASS"
+    },
+    {
+      "clicked": "GPT-6.1-Sol",
+      "selection": "PASS"
+    },
+    {
+      "restored": "GPT-6-Astra",
+      "effort": "Xhigh",
+      "adjacentPanes": "PASS"
+    }
+  ]
+}
+{"restoredAfterTest":"GPT-6-Astra","effort":"Xhigh"}
